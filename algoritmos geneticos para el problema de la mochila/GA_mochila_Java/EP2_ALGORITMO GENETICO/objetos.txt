@@ -1,0 +1,15 @@
+verde1;1;13
+azul1;1;10
+naranja1;1;1
+amarillo2;4;3
+morado2;2;6
+rojo2;8;7
+cafe3;6;9
+gris3;3;11
+negro3;2;4
+blanco4;7;2
+rosa4;9;5
+turquesa4;4;8
+celeste5;9;12
+ocre5;6;14
+ambar5;5;15
